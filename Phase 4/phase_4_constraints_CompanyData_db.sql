@@ -4,8 +4,8 @@
 -- ------------------------------------------------------
 -- Server version	9.1.0
 
-CREATE DATABASE `Normalized_CompanyData`;
-USE `Normalized_CompanyData`;
+CREATE DATABASE `Constrained_CompanyData`;
+USE `Constrained_CompanyData`;
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
